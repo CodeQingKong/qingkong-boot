@@ -5,7 +5,9 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import javax.servlet.http.HttpServletRequest;
 
-/** http全局异常处理
+/**
+ * http全局异常处理
+ *
  * @Author QingKong
  * @create 2023/4/4
  */
